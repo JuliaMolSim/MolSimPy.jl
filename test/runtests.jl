@@ -1,6 +1,8 @@
 using MolSimPy
 using Test
+using ASE
+using JuLIP.Testing
 
 @testset "MolSimPy.jl" begin
-    # Write your own tests here.
+   include("matscipy.jl")
 end
