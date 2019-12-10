@@ -1,6 +1,5 @@
 using Test, ASE, NeighbourLists, JuLIP
 using LinearAlgebra: norm
-using MolSimPy: neighbourlist
 
 a0 = 2.025
 
